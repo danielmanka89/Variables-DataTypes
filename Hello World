@@ -1,0 +1,4 @@
+"""
+The "Hello, World!" program is a fundamental exercise for beginners in any programming language. Its purpose is to demonstrate a program that produces some output. In Python, this is accomplished with a single line of code.
+"""
+print("Hello, World!")
